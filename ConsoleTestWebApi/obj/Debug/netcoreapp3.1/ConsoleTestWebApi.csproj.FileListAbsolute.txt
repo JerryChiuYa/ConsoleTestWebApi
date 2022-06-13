@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\bin\Debug\netcoreapp3.1\ConsoleTestWebApi.exe
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\bin\Debug\netcoreapp3.1\ConsoleTestWebApi.deps.json
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\bin\Debug\netcoreapp3.1\ConsoleTestWebApi.runtimeconfig.json
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\bin\Debug\netcoreapp3.1\ConsoleTestWebApi.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\bin\Debug\netcoreapp3.1\ConsoleTestWebApi.dll
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\bin\Debug\netcoreapp3.1\ConsoleTestWebApi.pdb
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.csproj.CopyComplete
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.dll
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.pdb
+C:\Users\USER\source\repos\ConsoleTestWebApi\ConsoleTestWebApi\obj\Debug\netcoreapp3.1\ConsoleTestWebApi.genruntimeconfig.cache
